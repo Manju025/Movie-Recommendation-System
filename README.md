@@ -1,6 +1,6 @@
 # Flask Movie Recommender
 
-Flask Movie Recommender is a web application that allows users to get movie recommendations based on their preferences. Users can search for movies, get detailed information, and receive recommendations for similar movies.
+Movie Recommender System is a web application that allows users to get movie recommendations based on their preferences. Users can search for movies, get detailed information, and receive recommendations for similar movies.
 
 ## Features
 
