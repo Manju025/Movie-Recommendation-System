@@ -69,10 +69,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Create a new Pull Request.
 
-## Authors
+## Author
 
 - **Manjundhar Adagiri** - *Initial work* - [Manjundhar](https://github.com/Manju025)
-
+- **LinkedIn Account** - [Adagiri-Manjundhar](https://www.linkedin.com/in/manjundhar-adagiri)
 ## Acknowledgments
 
 - Inspiration from various movie recommendation systems.
